@@ -17,8 +17,8 @@
     "sass",
     "normalize"
   ],
-  "main": "sass/_normalize.scss",
-  "style": "sass/_normalize.scss",
+  "main": "./sass/_normalize.scss",
+  "style": "./sass/_normalize.scss",
   "eyeglass": {
     "sassDir": "sass",
     "exports": false,
